@@ -16,8 +16,8 @@ Ce script Python permet de capturer automatiquement des captures d’écran (des
 
 1. **Cloner le dépôt** (ou copier `screenshot.py` et `requirements.txt`) :
    ```bash
-   git clone https://votre-repo.git
-   cd votre-repo
+   git clone https://github.com/Datayano/screenshot.git
+   cd screenshot
 2. **Créer et activer un environnement virtuel** :
 ```bash
 python3 -m venv venv
